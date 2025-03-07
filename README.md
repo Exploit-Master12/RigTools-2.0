@@ -50,7 +50,7 @@ For now,this will do.
 And now you can do whatever you want on your computer.Use this wisely,and stay on task in class...At lunch,you could be hangin' out in the library with your friends playing bloxd.io or whatever... =-D
 
 ***MORE STUFF COMING SOON***
--Follow for more exploits,Exploit-Master12
+-Follow for more exploits,Exploit-Master12 =-)
 
 
 
