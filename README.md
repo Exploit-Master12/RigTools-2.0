@@ -1,5 +1,5 @@
-# RigTools-2.0  **THIS ONLY WORKS FOR CHROMEBOOK,NO WINDOWS OR ANYTHING***
-**Rigtools** is an exploit that allows users to run code on extensions, disable extensions, and basically do whatever they want with an extension as long as it has the correct permissions. As of October 2024, it is **patched** in Chrome OS 128 and above. **NOT ANYMORE NOW THAT I FOUND AND MADE A NEW VERSION**
+ **THIS ONLY WORKS FOR CHROMEBOOK,NO WINDOWS OR ANYTHING***
+**Rigtools** is an exploit that allows users to run code on extensions, disable extensions, and basically do whatever they want with an extension as long as it has the correct permissions.***IT IS PATCHED ON ALL CHROME VERSIONS 133 AND HIGHER*** =-( 😧
 
 ### How do you use it?
 
@@ -28,6 +28,31 @@ devtools://devtools/bundled/devtools_app.html?experiments=true&ws=rig.kxtz.dev/
 ```md
 https://devtoolbypass.playcode.io/
 ```
-And now you can do whatever you want on your computer.Use this wisely,and stay on task in class.At lunch,you could be hangin' out in the library with your friends playing bloxd.io or whatever... =-D
+Click "skip intro" and drag the button.
 
--Follow for more exploits,Exploit-Master12. 🙂
+
+***MORE IMPORTANT INFO***
+-(A reminder,These may stop working after a few weeks,you might have to do it again.)
+-If GitHub or DevtoolBypass gets blocked,then save this URL by dragging it into your bookmarks bar or...just keep it safe!
+```
+data:text/html;charset=utf-8,devtools://devtools/bundled/devtools_app.html <p> <dev> devtools://devtools/bundled/devtools_app.html?experiments=true&ws=rig.kxtz.dev/%20%20%20%20%20These%20are%20links%20to%20launch%20the%20unblock3r.%20%3Cp%3E%20%3Cdev%3E%20Use%20these%20links%20to%20get%20a%20HYPERLINK,a%20DIRECT%20link%20to%20RigTools%20devtools://devtools/bundled/devtools_app.html%20%3Cp%3E%20%3Cdev%3E%20filesystem:chrome-extension://gndmhdcefbhlchkhipcnnbkcmicncehk/temporary/index.html%20%3Cp%3E%20%3Cdev%3E%20The%20second%20one:%20filesystem:chrome-extension://gndmhdcefbhlchkhipcnnbkcmicncehk/persistent/rigtools.html
+```
+There is a **real** second version,though.
+When you get to the original version,
+-Scroll down a bit,until you find a button named "Update Rigtools".Click it.
+-After,go to 
+```
+rigtools.playcode.io
+```
+and that should work too.
+For now,this will do.
+
+And now you can do whatever you want on your computer.Use this wisely,and stay on task in class...At lunch,you could be hangin' out in the library with your friends playing bloxd.io or whatever... =-D
+
+***MORE STUFF COMING SOON***
+-Follow for more exploits,Exploit-Master12
+
+
+
+
+
