@@ -40,7 +40,6 @@ This is a hyperlink to rigtools.(BWAHAHAHAH)
 data:text/html;charset=utf-8,devtools://devtools/bundled/devtools_app.html <p> <dev> devtools://devtools/bundled/devtools_app.html?experiments=true&ws=rig.kxtz.dev/%20%20%20%20%20These%20are%20links%20to%20launch%20the%20unblock3r.%20%3Cp%3E%20%3Cdev%3E%20Use%20these%20links%20to%20get%20a%20HYPERLINK,a%20DIRECT%20link%20to%20RigTools%20devtools://devtools/bundled/devtools_app.html%20%3Cp%3E%20%3Cdev%3E%20filesystem:chrome-extension://gndmhdcefbhlchkhipcnnbkcmicncehk/temporary/index.html%20%3Cp%3E%20%3Cdev%3E%20The%20second%20one:%20filesystem:chrome-extension://gndmhdcefbhlchkhipcnnbkcmicncehk/persistent/rigtools.html
 ```
 -They may make your computer a bit laggy,but nothing much,just some distortion of the mouse or something.
--
 -If using a vpn,do not try and test or experiment around with this using "Metasploit" or any "Penetration testing" platforms.
 Be careful.That stuff can break your computers.BEWARE OF BROWSERS! 🙂 
 If you know what I mean...😏
