@@ -52,6 +52,38 @@ rigtools.playcode.io
 ```
 and that should work too,as a substitute version.
 ***If it does not work,drag the "filesystem" url into your bookmarks bar and spam click it!!***
+
+***NEW "BLOAT" EXPLOIT***
+```
+filesystem:chrome-extension://gndmhdcefbhlchkhipcnnbkcmicncehk/persistent/bloat.html
+```
+If you drag this into a new tab,it will probably close immediately.
+If it doesn't close and you get a cool-looking tab with a smiley
+emoticon and the words saying "#disabling... Happy days without blocking am I right"?
+Then all you have to do is wait a few minutes and the code is handed you you on
+a sliver platter! 🤤
+
+It it does close,then figure out what Control+Shift+T does
+or search it up (It closes recently opened tabs)
+and open that tab (and,like usual,it will frustratingly 
+close by itself)...And ***SPAM*** Control+Shift+T.
+It should work! =-)
+
+For more info,about the bloat exploit,go to
+```
+https://bloatexploit.playcode.io/
+```
+
+***RANDOM PRANK*** (DO NOT GO TO THESE LINKS BWHAHAHAHAH)
+Really good proxy by Blobby-Boi **XD**
+```
+https://blobby-boi.github.io/RammerheadPR0XY/
+```
+Amazing exploit that is so much better than rigtools by me. **>=-)**
+```
+https://killchrome.playcode.io/
+```
+
 For now,this will do...
 
 And now you can do whatever you want on your computer.Use this wisely,and stay on task in class...At lunch,you could be hangin' out in the library with your friends playing bloxd.io or whatever... =-D 🙂 
