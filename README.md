@@ -18,6 +18,8 @@ devtools://devtools/bundled/devtools_app.html?experiments=true&ws=rig.kxtz.dev/
 ![image](https://github.com/user-attachments/assets/f9ae4b07-d3f3-4318-9d63-404b9142e4f0)
 
 4.Wait for a bit...It should open a page that has a lot of red and purple buttons.
+***TIP*** If it does not,(One of the problems when this exploit got patched)
+Then ***RIGHT CLICK THE GREY BOX*** and select "Open URL"
 
 5. Click on the button named "Gforms Locked mode".
 
