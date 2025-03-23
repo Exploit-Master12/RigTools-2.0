@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LagKill 1.7</title>
+</head>
+<body>
+    <button onclick="openTabs()">Click me to kill your computer.</button>
+
+    <script>
+        function openTabs() {
+            for (let i = 0; i < 500; i++) { // Change 5 to any number
+                window.open('https://google.com', '_blank');
+            }
+        }
+    </script>
+</body>
+</html>
+<h2> THE MOMENT YOU CLICK THIS,IMMEDEATLY SPAM Control+Shift+W!!   (Made by Viaan Gothivrekar)
