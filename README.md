@@ -76,6 +76,12 @@ For more info,about the bloat exploit,go to
 https://bloatexploit.playcode.io/
 ```
 
+One more thing,that relates to this project:
+***IF GITHUB GETS BLOCKED,USE THIS***
+```
+https://raw.githubusercontent.com/Exploit-Master12/RigTools-2.0/01790b954fd7bd2d0b701848e0b6e82197a05713/README.md
+```
+
 ***RANDOM PRANK*** (DO NOT GO TO THESE LINKS BWHAHAHAHAH)
 Really good proxy by Blobby-Boi **XD**
 ```
