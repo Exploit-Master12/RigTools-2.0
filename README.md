@@ -76,6 +76,14 @@ For more info,about the bloat exploit,go to
 https://bloatexploit.playcode.io/
 ```
 
+
+***IF YOU ONLY WANT THE DEVELOPER TOOLS,AND NO UNBLOCKER,THEN USE THIS:***
+```
+filesystem:chrome-extension://mloajfnmjckfjbeeofcdaecbelnblden/temporary/index.html
+```
+This will only show the Javascript playground with the coding peice for people who know what they are doing and not the disable extensions part. =-P
+
+
 One more thing,that relates to this project:
 ***IF GITHUB GETS BLOCKED,USE THIS***
 ```
